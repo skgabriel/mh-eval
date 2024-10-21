@@ -1,0 +1,8 @@
+praw
+tqdm
+spacy_fastlang
+spacy
+openai
+transformers
+nltk
+scipy
